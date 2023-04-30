@@ -1,0 +1,41 @@
+{
+  "transactions": [
+    {
+      "description": "paid for bus fare",
+      "category": "transport",
+      "amount": 80,
+      "id": 1
+    },
+    {
+      "description": "Paid for lunch",
+      "category": "food",
+      "amount": 200,
+      "id": 2
+    },
+    {
+      "description": "subscribed to udemy course",
+      "category": "education",
+      "amount": 13,
+      "id": 3
+    },
+    {
+      "description": "paid for nails",
+      "category": "beauty",
+      "amount": 20,
+      "id": 4
+    },
+    {
+      "description": "bought books",
+      "category": "education",
+      "amount": 1000,
+      "id": 5
+    }
+  ]
+}
+
+// well organized components
+// db.json hobbies{
+  // id with a hobby
+  // show the hobbies to the UI GET 
+  //ADD hobbies to db.json and display it 
+  // DELETE a hobby from the db.json  and display it
