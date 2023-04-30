@@ -19,23 +19,16 @@
       "id": 3
     },
     {
-      "description": "paid for nails",
-      "category": "beauty",
-      "amount": 20,
-      "id": 4
-    },
-    {
       "description": "bought books",
       "category": "education",
       "amount": 1000,
       "id": 5
+    },
+    {
+      "description": "hair undone blowdry",
+      "category": "beauty",
+      "amount": 500,
+      "id": 6
     }
   ]
 }
-
-// well organized components
-// db.json hobbies{
-  // id with a hobby
-  // show the hobbies to the UI GET 
-  //ADD hobbies to db.json and display it 
-  // DELETE a hobby from the db.json  and display it
